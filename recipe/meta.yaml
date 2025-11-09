@@ -1,5 +1,5 @@
 {% set name = "diffpy.distanceprinter" %}
-{% set version = "1.0.0rc0" %}
+{% set version = "1.0.0" %}
 {% set python_min = "3.11" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/diffpy_distanceprinter/diffpy_distanceprinter-{{ version }}.tar.gz
-  sha256: 0714a8ec01f2da95e0a38ae5587adda45313f37d66d5740c4635e0593764e7a7
+  sha256: 9f25fc7c5573ada281c7f1937f4f5ccada0da8fdeab2728b2c5103e0b2107a83
 
 build:
   noarch: python
