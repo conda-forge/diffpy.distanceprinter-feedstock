@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/diffpy_distanceprinter/diffpy_distanceprinter-{{ version }}.tar.gz
-  sha256: 9f25fc7c5573ada281c7f1937f4f5ccada0da8fdeab2728b2c5103e0b2107a83
+  sha256: 679f08f116bc126e1421c138b6a4230f738cfa43830098b29c6f91bbaf725dbf
 
 build:
   noarch: python
